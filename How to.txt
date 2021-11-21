@@ -1,0 +1,6 @@
+Clone this repo.
+Go to your workspace
+Open Eclispse
+Import this project
+Select maven
+Run this Project
